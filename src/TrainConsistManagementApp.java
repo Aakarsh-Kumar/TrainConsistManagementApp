@@ -263,4 +263,5 @@ class Bogie {
     public int getCapacity() {
         return capacity;
     }
+
 }
